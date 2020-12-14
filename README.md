@@ -1,5 +1,5 @@
 # TL;DR
-by using ffmpeg.wasm, you can transcode your movie file to .mp4 without uplodading server, on your web browser.
+by using ffmpeg.wasm, you can transcode your movie file to .mp4 without uploading it to server, on your web browser.
 
 ## How to use
 
